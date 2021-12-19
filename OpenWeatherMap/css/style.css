@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#content {
+    padding: 3%;
+}
+
+#err,
+#result {
+    display: none;
+}
+
+#map {
+    height: 60vh;
+}

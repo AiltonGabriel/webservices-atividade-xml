@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE produto SYSTEM "produto.dtd">
+<produto>
+  <id>42</id>
+  <nome>Smartphone Moto G</nome>
+  <preco>
+    <unidade>R$</unidade>
+    <a_vista>519</a_vista>
+    <a_prazo>630</a_prazo>
+  </preco>
+  <cameras>
+    <camera>
+      <tipo>frontal</tipo>
+      <resolucao>5</resolucao>
+      <unidade>Mp</unidade>
+    </camera>
+    <camera>
+      <tipo>traseira</tipo>
+      <resolucao>1.3</resolucao>
+      <unidade>Mp</unidade>
+    </camera>
+  </cameras>
+</produto>
